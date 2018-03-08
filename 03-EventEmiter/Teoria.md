@@ -19,3 +19,7 @@ Es un objeto -> en este caso es config.
 A string that has some special meaning in our code.
 
 This is bad because it makes it easy for a typo to cause a bug, and hard for tools to help us find it.
+
+## Remover repositorio 
+
+rm -rf .git

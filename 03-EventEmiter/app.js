@@ -1,6 +1,6 @@
 //var Emitter = require('./emitter') 
 var Emitter = require('events'); //Voy a cambiar la referencia a un modulo de node
-var eventConfig = require('./config').events;
+var eventConfig = require('./config').events; //Tiene todos los magic de events
 
 
 var emtr = new Emitter()
