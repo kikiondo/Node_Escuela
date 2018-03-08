@@ -1,0 +1,10 @@
+{
+    Street: 'Mian',
+    Numbre: '100',
+    Aparetment: {
+        Fllor: 3,
+        Numbre: 301
+    }
+}
+
+//
