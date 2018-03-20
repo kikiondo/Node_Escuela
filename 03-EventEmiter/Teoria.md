@@ -23,3 +23,11 @@ This is bad because it makes it easy for a typo to cause a bug, and hard for too
 ## Remover repositorio 
 
 rm -rf .git
+
+## Prototipe chain 
+
+Object.create 
+
+## Modulo de util
+
+Es para permitir la funcinalidad de heredar tiene el metodo de inherits.
